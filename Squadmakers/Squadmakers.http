@@ -1,0 +1,6 @@
+@Squadmakers_HostAddress = http://localhost:5101
+
+GET {{Squadmakers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
