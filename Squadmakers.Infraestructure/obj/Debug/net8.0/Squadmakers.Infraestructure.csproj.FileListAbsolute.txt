@@ -1,0 +1,14 @@
+C:\Proyectos\Squadmakers.Infraestructure\bin\Debug\net8.0\Squadmakers.Infraestructure.deps.json
+C:\Proyectos\Squadmakers.Infraestructure\bin\Debug\net8.0\Squadmakers.Infraestructure.dll
+C:\Proyectos\Squadmakers.Infraestructure\bin\Debug\net8.0\Squadmakers.Infraestructure.pdb
+C:\Proyectos\Squadmakers.Infraestructure\obj\Debug\net8.0\Squadmakers.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Squadmakers.Infraestructure\obj\Debug\net8.0\Squadmakers.Infraestructure.AssemblyInfoInputs.cache
+C:\Proyectos\Squadmakers.Infraestructure\obj\Debug\net8.0\Squadmakers.Infraestructure.AssemblyInfo.cs
+C:\Proyectos\Squadmakers.Infraestructure\obj\Debug\net8.0\Squadmakers.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Proyectos\Squadmakers.Infraestructure\obj\Debug\net8.0\Squadmakers.Infraestructure.dll
+C:\Proyectos\Squadmakers.Infraestructure\obj\Debug\net8.0\refint\Squadmakers.Infraestructure.dll
+C:\Proyectos\Squadmakers.Infraestructure\obj\Debug\net8.0\Squadmakers.Infraestructure.pdb
+C:\Proyectos\Squadmakers.Infraestructure\obj\Debug\net8.0\ref\Squadmakers.Infraestructure.dll
+C:\Proyectos\Squadmakers.Infraestructure\bin\Debug\net8.0\Squadmakers.Infraestructure.runtimeconfig.json
+C:\Proyectos\Squadmakers.Infraestructure\obj\Debug\net8.0\Squadmakers.Infraestructure.genruntimeconfig.cache
+C:\Proyectos\Squadmakers.Infraestructure\obj\Debug\net8.0\Squadmakers.Infraestructure.csproj.AssemblyReference.cache
